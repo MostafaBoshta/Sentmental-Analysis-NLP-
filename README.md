@@ -18,11 +18,11 @@ The goal is to develop a system that can automatically categorize and analyze cu
 
 ## Data
 ### Data Sample
-**Rating:** 5 
-| **Date:** 30-Jul-18 
-| **Variation:** Black Dot
-| **Verified_Reviews:** I have had the echo dot for about two weeks and ...
-| **Feedback:** 1
+**Rating:** 5 \
+**Date:** 30-Jul-18 \
+**Variation:** Black Dot \
+**Verified_Reviews:** I have had the echo dot for about two weeks and ...\
+**Feedback:** 1
 
 ### Data Exploration
 - We found that date feature has a wrong type.
