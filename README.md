@@ -62,9 +62,9 @@ The goal is to develop a system that can automatically categorize and analyze cu
   
 ## Code Structure
 In this project I used the directory structure 
-├── Docs
-│   ├── Diresctory Structure.rtf
-├── Data
+├── Docs__
+│   ├── Diresctory Structure.rtf__
+├── Data__
 │   ├── amazon_alexa.tsv
 │   ├── After_dropping_duplicates.pkl
 │   ├── After_preprocessing.pkl
