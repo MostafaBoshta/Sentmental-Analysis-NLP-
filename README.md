@@ -63,27 +63,27 @@ The goal is to develop a system that can automatically categorize and analyze cu
 ## Code Structure
 In this project I used the directory structure\
 ├── Docs\
-   ├── Diresctory Structure.rtf\
+&emsp;├── Diresctory Structure.rtf\
 ├── Data\
-   ├── amazon_alexa.tsv\
-   ├── After_dropping_duplicates.pkl\
-   ├── After_preprocessing.pkl\
-   ├── After_ExtractingFeatures.pkl\
+&emsp;├── amazon_alexa.tsv\
+&emsp;├── After_dropping_duplicates.pkl\
+&emsp;├── After_preprocessing.pkl\
+&emsp;├── After_ExtractingFeatures.pkl\
 ├── NoteBooks\
-   ├── 00 Exploration.ipynb\
-   ├── 01 Preprocessing.ipynb\
-   ├── 02 FeatureExtraction.ipynb\
-   ├── 03 ModelCreation.ipynb\
+&emsp;├── 00 Exploration.ipynb\
+&emsp;├── 01 Preprocessing.ipynb\
+&emsp;├── 02 FeatureExtraction.ipynb\
+&emsp;├── 03 ModelCreation.ipynb\
 ├── Images\
-   ├── feedback.png\
-   ├── feedbackPerMonth.png\
-   ├── ratingPlot.png\
-   ├── reviewsLength.png\
-   ├── variations.png\
-   ├── Amazon-Review-Analysis.png\
+&emsp;├── feedback.png\
+&emsp;├── feedbackPerMonth.png\
+&emsp;├── ratingPlot.png\
+&emsp;├── reviewsLength.png\
+&emsp;├── variations.png\
+&emsp;├── Amazon-Review-Analysis.png\
 ├── Models\
-   ├── logisticRegression_model.joblib\
-   └── xgboost_model.joblib\
+&emsp;├── logisticRegression_model.joblib\
+&emsp;└── xgboost_model.joblib\
 └── README.md
 
 
