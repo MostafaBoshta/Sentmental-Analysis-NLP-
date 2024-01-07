@@ -1,4 +1,4 @@
-![alt text]([Images/Amazon-Review-Analysis.png)
+![alt text](Images/Amazon-Review-Analysis.png)
 
 # Amazon Product Reviews Feedback
 
@@ -29,17 +29,17 @@ The goal is to develop a system that can automatically categorize and analyze cu
 - We found around 715 duplicated rows and decided to drop them.
 - No null values found in the data.
 - We found that feedback = 1 when the rating is >= 3 otherwise the feedback is 0.
-- Image Here
+![alt text](Images/ratingPlot.png)
 - We found imbalance in feedback (Our Target) feature.
-- Image Here
+![alt text](Images/feedback.png)
 - Variation Distribution.
-- Image Here
+![alt text](Images/variations.png)
 - We found a skewness in the reviews column with a mean length = 137 and median length = 77.
-- Image Here
+![alt text](Images/reviewsLength.png)
 ### Data Preprocessing
 - We fixed the Date column type by converting it to datetime.
 - Grouped the date by month and found that July has by far the highest reviews.
-- Image here
+![alt text](Images/feedbackPerMonth.png)
 - We used string library to remove punctuations from the reveiws as they don't have any value to us.
 - We removed the stopwords ex. i, me, this, where ..etc using NTLK.
 - Dropped the Unncessary Columns Date and ratings as rating has a high correlation with our target feature.
