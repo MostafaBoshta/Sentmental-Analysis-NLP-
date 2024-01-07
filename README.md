@@ -63,27 +63,27 @@ The goal is to develop a system that can automatically categorize and analyze cu
 ## Code Structure
 In this project I used the directory structure\
 ├── Docs\
-│   ├── Diresctory Structure.rtf\
+   ├── Diresctory Structure.rtf\
 ├── Data\
-│   ├── amazon_alexa.tsv\
-│   ├── After_dropping_duplicates.pkl\
-│   ├── After_preprocessing.pkl\
-│   ├── After_ExtractingFeatures.pkl\
+   ├── amazon_alexa.tsv\
+   ├── After_dropping_duplicates.pkl\
+   ├── After_preprocessing.pkl\
+   ├── After_ExtractingFeatures.pkl\
 ├── NoteBooks\
-│   ├── 00 Exploration.ipynb\
-│   ├── 01 Preprocessing.ipynb\
-│   ├── 02 FeatureExtraction.ipynb\
-│   ├── 03 ModelCreation.ipynb\
+   ├── 00 Exploration.ipynb\
+   ├── 01 Preprocessing.ipynb\
+   ├── 02 FeatureExtraction.ipynb\
+   ├── 03 ModelCreation.ipynb\
 ├── Images\
-│   ├── feedback.png\
-│   ├── feedbackPerMonth.png\
-│   ├── ratingPlot.png\
-│   ├── reviewsLength.png\
-│   ├── variations.png\
-│   ├── Amazon-Review-Analysis.png\
+   ├── feedback.png\
+   ├── feedbackPerMonth.png\
+   ├── ratingPlot.png\
+   ├── reviewsLength.png\
+   ├── variations.png\
+   ├── Amazon-Review-Analysis.png\
 ├── Models\
-│   ├── logisticRegression_model.joblib\
-│   └── xgboost_model.joblib\
+   ├── logisticRegression_model.joblib\
+   └── xgboost_model.joblib\
 └── README.md
 
 
